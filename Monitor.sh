@@ -8,7 +8,6 @@ if [ -n "$pid" ]; then
 
     echo "The process ID is $pid, CPU usage is at $cpu and memory is $mem"
 
-
 else
 
     echo "This program is not running"
