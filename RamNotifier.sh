@@ -9,5 +9,5 @@ while true; do
         notify-send "Warning. RAM usage is at ${percent}"
     fi
 
-    sleep 3
+    sleep 10
 done
